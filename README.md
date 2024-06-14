@@ -32,7 +32,7 @@ This hackintosh configuration is built for the `Dell XPS15 9570` laptop based `O
 
 Replace MLB/SN/UUID before using the EFI file
 
-[Full Installation Guide](https://www.youtube.com/watch?v=h22MJD8C1r8&t=823s) by Kevin Shroff. See it firstly and you should kown as below before installation:
+[Full Installation Guide](https://www.youtube.com/watch?v=h22MJD8C1r8&t=823s) by Kevin Shroff. 
 
 
 
